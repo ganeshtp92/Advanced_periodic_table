@@ -1,0 +1,25 @@
+PROJECT NAME: ADVANCED PERIODIC TABLE
+
+DEVELOPER NAME:GANESHPRASAD.T.P
+
+DEVELOPMENT PLATFORM:Qt
+
+IDEA OWNER:GANESHPRASAD.T.P
+
+PROJECT DESCRIPTION:
+     
+This is an Educative application which includes all the elements as the same alignment
+
+as in periodic table clicking on the element will give the complete description about the
+ 
+element.It gives more information about the element which includes Ionisation energy,
+
+Atomic radius,Electron negativity,and state of the element ,oxidation state etc..
+
+which are not available in the normal periodic table.User interface is unique and 
+
+attractive. 
+
+PROJECT STATUS:COMPLETED
+
+  
